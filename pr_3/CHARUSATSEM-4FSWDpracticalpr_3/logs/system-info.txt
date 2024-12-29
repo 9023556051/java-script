@@ -1,0 +1,9 @@
+
+    ===================== System Information =====================
+    OS: Windows_NT
+    Total Memory: 7.79 GB
+    Free Memory: 1.90 GB
+    CPU: 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz
+    Uptime: 12817 seconds
+    ===============================================================
+    
